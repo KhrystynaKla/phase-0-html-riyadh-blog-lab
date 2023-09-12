@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: radial-gradient();
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -52,11 +52,11 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 4em;
 }
 
 a {
-  color: black;
+  color: rgb(154, 20, 20);
   text-decoration: none;
 }
 
